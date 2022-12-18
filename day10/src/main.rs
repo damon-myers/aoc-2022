@@ -1,4 +1,4 @@
-use std::{collections::LinkedList, thread::current};
+use std::collections::LinkedList;
 
 pub enum Operation {
     Noop,
